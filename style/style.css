@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue; /*Color de fondo*/
+    font-size: 17px; /*Tamaño de la letra */
+}
+
+h1{
+    font-size: 24px;/*Tamaño de la letra */
+    text-align: center;/*Alineación del texto*/
+}
+
+.textoGrande{
+    font-size: 21px; /*Tamaño del texto*/
+    font-weight: bold; /*Grosor del texto*/
+}
+
+
+
+
+.contenedor{
+    background-color: lightgreen;
+}
+
+
+
+.contenedor h1{
+    text-decoration: underline; /*Subrayar*/
+    color:blueviolet;/*Color del texto*/
+    font-size: 30px; /*Tamaño de la letra*/
+}
+
